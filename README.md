@@ -1,8 +1,15 @@
 # Arduino Car with Ultrasonic Sensor ReadMe
 
 This repository contains the Arduino code for a simple car project equipped with an ultrasonic sensor. The project utilizes various components, including a car chassis, DC gear motors, wheels, an ultrasonic sensor, and other electronic elements. Below is a brief guide to help you understand and implement this code for your Arduino-based car project.
+
+
 ![arduinocar1](https://github.com/ingli0/arduinoCarObstacleAvoidance/assets/76855285/cdd4e59e-0f2a-444f-a0b0-fca9349c2521)
+
+
 ![arduinocar2](https://github.com/ingli0/arduinoCarObstacleAvoidance/assets/76855285/8ddef80e-a947-47ea-84db-d77b928aa13d)
+
+
+
 ![arduinocar3](https://github.com/ingli0/arduinoCarObstacleAvoidance/assets/76855285/cadf7dc4-8350-4588-be44-93b4a9059492)
 ## Hardware Requirements
 

@@ -1,7 +1,9 @@
 # Arduino Car with Ultrasonic Sensor ReadMe
 
 This repository contains the Arduino code for a simple car project equipped with an ultrasonic sensor. The project utilizes various components, including a car chassis, DC gear motors, wheels, an ultrasonic sensor, and other electronic elements. Below is a brief guide to help you understand and implement this code for your Arduino-based car project.
-
+![arduinocar1](https://github.com/ingli0/arduinoCarObstacleAvoidance/assets/76855285/cdd4e59e-0f2a-444f-a0b0-fca9349c2521)
+![arduinocar2](https://github.com/ingli0/arduinoCarObstacleAvoidance/assets/76855285/8ddef80e-a947-47ea-84db-d77b928aa13d)
+![arduinocar3](https://github.com/ingli0/arduinoCarObstacleAvoidance/assets/76855285/cadf7dc4-8350-4588-be44-93b4a9059492)
 ## Hardware Requirements
 
 Ensure you have the following components before using this code:
@@ -26,6 +28,7 @@ Ensure you have the following components before using this code:
 
 Follow the assembly drawing to connect the components correctly. Make sure to double-check your wiring to prevent any issues.
 
+
 ## Arduino Code Overview
 
 The provided Arduino code is responsible for controlling the car's movements based on the readings from the ultrasonic sensor. Here's a brief overview of the code structure:
@@ -36,11 +39,13 @@ The provided Arduino code is responsible for controlling the car's movements bas
 - **Setup:** Initializes serial communication, sets up pins, attaches the servo motor, and positions the sensor angle for the initial reading.
 - **Loop:** Continuously reads distance values from the ultrasonic sensor and adjusts the car's movement based on the readings.
 
+
 ## Getting Started
 
 1. Connect all the hardware components as per the assembly drawing.
 2. Upload the provided Arduino code to your Arduino UNO R3.
 3. Power up the system and observe how the car behaves based on the ultrasonic sensor readings.
+
 
 ## Troubleshooting
 

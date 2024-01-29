@@ -23,13 +23,11 @@ Ensure you have the following components before using this code:
 6. Caster - 1 piece
 7. Four battery box - 1 piece
 8. Quality Rocker Switch - 1 piece
-9. Assembly drawing - 1 piece
-10. Several screw nuts
-11. V5 shield - 1 piece
-12. Arduino UNO R3 - 1 piece
-13. SG90 Servo Motor - 1 piece
-14. FPV Camera - 1 piece
-15. L298N Motor Driver - 1 piece
+9. Several screw nuts
+10. V5 shield - 1 piece
+11. Arduino UNO R3 - 1 piece
+12. SG90 Servo Motor - 1 piece
+13. L298N Motor Driver - 1 piece
 
 ## Wiring Instructions
 
